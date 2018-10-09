@@ -20,6 +20,10 @@ ul {
   line-height: 30px;
 }
 
+img {
+  width: 200px;
+}
+
 div {
-  display: block;
+  width: 700px;
 }

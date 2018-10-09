@@ -1,8 +1,12 @@
 h1 {
+  font-family: monospace;
     color: red;
+    font-weight:100;
+    line-height: 200%;
 }
 
 h2 {
+  font-family: fantasy;
   font-style: italic;
   text-align: center;
 }
@@ -14,4 +18,8 @@ p {
 ul {
   font-size: 20px;
   line-height: 30px;
+}
+
+div {
+  display: block;
 }
